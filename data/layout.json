@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-30T06:28:58.650Z",
+  "artworks": [
+    {
+      "id": "art-main_A_way_of_seeing_jpg",
+      "sourceId": "main/A way of seeing.jpg",
+      "src": "/artworks/main/A way of seeing.jpg",
+      "title": "A way of seeing.",
+      "artist": "",
+      "year": "",
+      "medium": "",
+      "description": "",
+      "position": [
+        -9.76,
+        1.62,
+        0.5
+      ],
+      "rotation": [
+        0,
+        1.5707963267948966,
+        0
+      ],
+      "scale": 1.8,
+      "roomId": "lobby",
+      "wallId": "lobby:x:-10.0:-9.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_Art__all_art__is_a_foreign_city_jpg",
+      "sourceId": "main/Art, all art, is a foreign city.jpg",
+      "src": "/artworks/main/Art, all art, is a foreign city.jpg",
+      "title": "Art, all art, is a foreign city.",
+      "artist": "Jeanette Winterson",
+      "year": "",
+      "medium": "",
+      "description": "",
+      "position": [
+        9.76,
+        1.62,
+        1.469576158976822e-17
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "scale": 2.4,
+      "roomId": "lobby",
+      "wallId": "lobby:x:10.0:-9.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_Beautyisterror_Whateverwecallbeautifulwequiverbeforeit_jpg",
+      "sourceId": "main/Beautyisterror.Whateverwecallbeautifulwequiverbeforeit.jpg",
+      "src": "/artworks/main/Beautyisterror.Whateverwecallbeautifulwequiverbeforeit.jpg",
+      "title": "Beauty is terror.",
+      "artist": "Donna Tartt",
+      "year": "1992",
+      "medium": "",
+      "description": "\"The line is spoken by Julian Morrow, a charismatic and eccentric ancient Greek professor at a fictional Vermont college. During a lecture on the nature of the Dionysian ritual and Greek tragedy, he discusses how true beauty is inseparable from terror, awe, and destruction.\"",
+      "position": [
+        9.76,
+        1.62,
+        2
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "scale": 1.8,
+      "roomId": "lobby",
+      "wallId": "lobby:x:10.0:-9.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_There_is_so_much_to_admire__to_weep_over_jpg",
+      "sourceId": "main/There is so much to admire, to weep over.jpg",
+      "src": "/artworks/main/There is so much to admire, to weep over.jpg",
+      "title": "There is so much to admire, to weep over.",
+      "artist": "Mary Oliver",
+      "year": "2014",
+      "medium": "",
+      "description": "“I know, you never intended to be in this world. But you're in it all the same. So why not get started immediately. I mean, belonging to it. There is so much to admire, to weep over. And to write music or poems about.”",
+      "position": [
+        0.5,
+        1.62,
+        8.76
+      ],
+      "rotation": [
+        0,
+        3.141592653589793,
+        0
+      ],
+      "scale": 1.3,
+      "roomId": "lobby",
+      "wallId": "lobby:z:9.0:-10.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_Time_s_relentless_melt_jpg",
+      "sourceId": "main/Time’s relentless melt.jpg",
+      "src": "/artworks/main/Time’s relentless melt.jpg",
+      "title": "Time’s relentless melt.",
+      "artist": "Susan Sontag",
+      "year": "1977",
+      "medium": "",
+      "description": "\"Sontag wrote that all photographs are memento mori (reminders of death) because taking a picture captures a fleeting moment, proving how fast life changes and fades.\"",
+      "position": [
+        -0.75,
+        1.62,
+        8.76
+      ],
+      "rotation": [
+        0,
+        3.141592653589793,
+        0
+      ],
+      "scale": 1.3,
+      "roomId": "lobby",
+      "wallId": "lobby:z:9.0:-10.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_Ihadasenseofpreparationforalovetocome_jpg",
+      "sourceId": "main/Ihadasenseofpreparationforalovetocome.jpg",
+      "src": "/artworks/main/Ihadasenseofpreparationforalovetocome.jpg",
+      "title": "A sense of preparation...",
+      "artist": "",
+      "year": "",
+      "medium": "",
+      "description": "",
+      "position": [
+        -9.76,
+        1.62,
+        -1
+      ],
+      "rotation": [
+        0,
+        1.5707963267948966,
+        0
+      ],
+      "scale": 1.85,
+      "roomId": "lobby",
+      "wallId": "lobby:x:-10.0:-9.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    },
+    {
+      "id": "art-main_Loveisagypsyschild_jpg",
+      "sourceId": "main/Loveisagypsyschild.jpg",
+      "src": "/artworks/main/Loveisagypsyschild.jpg",
+      "title": "Love is a gypsy's child.",
+      "artist": "",
+      "year": "",
+      "medium": "",
+      "description": "",
+      "position": [
+        9.76,
+        1.62,
+        -2
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "scale": 1.75,
+      "roomId": "lobby",
+      "wallId": "lobby:x:10.0:-9.0",
+      "spotlight": {
+        "enabled": true,
+        "color": "#ffe0a8",
+        "intensity": 42,
+        "angle": 0.5,
+        "penumbra": 0.88,
+        "height": 2.6,
+        "distance": 3.2
+      }
+    }
+  ]
+}
