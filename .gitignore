@@ -36,7 +36,7 @@ next-env.d.ts
 # Artwork images ARE committed (needed for the exhibition to work on deploy).
 
 # Local source folders (originals) — redundant with public/, kept out of the repo.
-/Pictures for museum/
+/artworks-source/
 /Music/
 
 # Soundtrack: none ships with this repo. If you add one to public/audio/, commit
@@ -45,5 +45,3 @@ next-env.d.ts
 
 # visitor-submitted messages (private; regenerated at runtime)
 /data/messages.json
-
-.vercel
